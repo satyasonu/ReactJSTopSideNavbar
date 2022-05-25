@@ -1,0 +1,18 @@
+.home{
+    margin-left: 100px;
+    /* justify-content: center; */
+    display: flex;
+    /* align-items: center;             */
+    height: 100vh;
+    border-style:hidden;
+    margin-top: 40px;
+    margin-right: 200px;
+    margin-left: 170px;
+    background-color:lightsteelblue;
+    border-radius: 10px;
+}
+.rightSpace{
+    border-style: dotted;
+    margin: 30px 50px;
+    width:700px;
+}
